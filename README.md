@@ -30,11 +30,15 @@
 
   
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #FF5733; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-  <a href="https://github.com/PedroHenriquefavaro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=666666"/>
+  <a href="https://github.com/PedroHenriquefavaro">   
+     </div>
+    <img align="right" alt="Python" height="250" width="260" src="https://images-ext-1.discordapp.net/external/s9-vebI3uZ8YXVeuUAOeed0E2zyqCrlRhYvGHtRSMuI/https/user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif?width=671&height=671">
+  </div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=666666"/> 
+ 
   </a>
-  <a href="https://github.com/viniciusjunio05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=666666&exclude_repo=github-readme-stats&hide=TeX,Lua,Vim%20script"/>
+  <a href="https://github.com/PedroHenriquefavaro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=666666&exclude_repo=github-readme-stats&hide=TeX,Lua,Vim%20script"/>
   </a>
 </div>
 
@@ -56,8 +60,15 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-___________________________________________________
+<img align="center" alt="Vini-Python" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<div style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img align="right" alt="Vini-Python" height="100" width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+</div>
+
+
+
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -72,11 +83,6 @@ ___________________________________________________
 
 
 
-
-
-
-
-<img align="right" alt="Python" height="200" width="210" src="https://images-ext-1.discordapp.net/external/s9-vebI3uZ8YXVeuUAOeed0E2zyqCrlRhYvGHtRSMuI/https/user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif?width=671&height=671">
 
 
 
