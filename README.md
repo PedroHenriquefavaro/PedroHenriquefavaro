@@ -11,9 +11,14 @@
 - 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
 - 📂.
 
-<img align="left" alt="Python" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚜.
+<div style="position: fixed; top: 0; left: 0;"><img align="left" alt="Python" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+‎ 
+  
+  𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚜
+  
+</div>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_henrique_favaro)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2DNXEusY)
  <a href = "mailto:pedrohenriquefavaro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
