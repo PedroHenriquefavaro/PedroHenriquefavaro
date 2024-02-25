@@ -16,6 +16,12 @@ ____________________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=onedracula"/>
 </div>
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHenriquefavaro&bg_color=000000&color=ffffff&line=003311&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 𝐭𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬 𝐪𝐮𝐞 𝐞𝐮 𝐮𝐬𝐨 𝐧𝐨 𝐝𝐢𝐚 𝐚 𝐝𝐢𝐚. 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,4 +38,6 @@ ___________________________________________________
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
 </div><br/>
+
+
 
