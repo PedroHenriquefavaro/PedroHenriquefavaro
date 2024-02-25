@@ -1,9 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá%20Mundo!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&fontAlign=50&fontAlign=20&descSize=20&descColor=FFFFFF&font-family=Roboto"/>
+<div style="font-family: Roboto;">
 
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%A9+Pedro+Henrique%3B+Tenho+20+anos%3B+Sou+do+Brasil%3B+Estou+estudando+programa%C3%A7%C3%A3o%3B+Seja+Bem-vindo%21%3A%29" alt="Typing SVG">
+<div style="background: linear-gradient(to right, #FF5733, #FFC300, #FF5733);">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%A9+Pedro+Henrique%3B+Tenho+20+anos%3B+Sou+do+Brasil%3B+Estou+estudando+programa%C3%A7%C3%A3o%3B+Seja+Bem-vindo%21%3A%29" alt="Typing SVG">
 </div>
 
+ 
 𝐎𝐥𝐚,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
 - 🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨
 - 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
@@ -18,9 +20,15 @@ ____________________________________________
   𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
 
   
+  <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #f0f0f0; padding: 20px;">
+  <a href="https://github.com/PedroHenriquefavaro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=FF5733"/>
+  </a>
   <a href="https://github.com/viniciusjunio05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=onedracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=FF5733"/>
+  </a>
 </div>
+
 
 
 
