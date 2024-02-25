@@ -1,18 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá%20Mundo!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&fontAlign=50&fontAlign=20&descSize=20&descColor=FFFFFF&font-family=Roboto"/>
 
-
-
-
-
-
 <div>
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%A9+Pedro+Henrique%3B+Tenho+20+anos%3B+Sou+do+Brasil%3B+Estou+estudando+programa%C3%A7%C3%A3o%3B+Seja+Bem-vindo%21%3A%29" alt="Typing SVG">
 </div>
-
-
-
-
-
 
 𝐎𝐥𝐚,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
 - 🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨
