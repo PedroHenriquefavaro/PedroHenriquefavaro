@@ -1,6 +1,8 @@
 𝐎𝐥𝐚,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
 - 🌱 estudando programação
-
+- 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
+- 📂.
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_henrique_favaro)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2DNXEusY)
  <a href = "mailto:pedrohenriquefavaro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
