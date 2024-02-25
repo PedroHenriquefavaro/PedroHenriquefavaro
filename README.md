@@ -18,16 +18,19 @@ ____________________________________________
 <div>
 
   𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
+  
 
   
-  <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #f0f0f0; padding: 20px;">
+ <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #f0f0f0; padding: 20px;">
   <a href="https://github.com/PedroHenriquefavaro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=FF5733"/>
   </a>
   <a href="https://github.com/viniciusjunio05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=FF5733"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=FF5733&exclude_repo=github-readme-stats&hide=TeX,Lua,Vim%20script"/>
   </a>
 </div>
+
+
 
 
 
