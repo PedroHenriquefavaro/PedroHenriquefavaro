@@ -2,10 +2,16 @@
 - 🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨
 - 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
 - 📂.
+____________________________________________
+𝚁𝙴𝙳𝙴𝚂 𝚂𝙾𝙲𝙸𝙰𝙸𝚂.
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_henrique_favaro)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2DNXEusY)
  <a href = "mailto:pedrohenriquefavaro18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
+
+  𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
+
+  
   <a href="https://github.com/viniciusjunio05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=onedracula"/>
 </div>
