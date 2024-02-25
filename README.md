@@ -1,4 +1,6 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá%20Mundo!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá%20Mundo!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&fontAlign=50&fontAlign=20&descSize=20&descColor=FFFFFF&font-family=Roboto"/>
+
+
 
 
 
