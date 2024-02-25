@@ -20,8 +20,9 @@ ____________________________________________
   𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
   
 
+
   
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #f0f0f0; padding: 20px;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #FF5733; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
   <a href="https://github.com/PedroHenriquefavaro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=666666"/>
   </a>
@@ -29,6 +30,7 @@ ____________________________________________
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=666666&exclude_repo=github-readme-stats&hide=TeX,Lua,Vim%20script"/>
   </a>
 </div>
+
 
 
 
@@ -54,4 +56,12 @@ ___________________________________________________
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
+
+
+
+
+
+
 
