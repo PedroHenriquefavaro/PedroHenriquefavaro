@@ -1,3 +1,17 @@
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Olá%20Mundo!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+
+
+
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5733&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%A9+Pedro+Henrique%3B+Tenho+20+anos%3B+Sou+do+Brasil%3B+Estou+estudando+programa%C3%A7%C3%A3o%3B+Seja+Bem-vindo%21%3A%29" alt="Typing SVG">
+</div>
+
+
+
+
+
+
 𝐎𝐥𝐚,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
 - 🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨
 - 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
@@ -36,8 +50,4 @@ ___________________________________________________
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-</div><br/>
-
-
 
