@@ -5,17 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81%2C+MEU+NOME+%C3%A9+Pedro+Henrique%3B+Tenho+20+anos%3B+Sou+do+Brasil%3B+Estou+estudando+programa%C3%A7%C3%A3o%3B+Seja+Bem-vindo%21%3A%29" alt="Typing SVG">
 </div>
 
- 
-𝐎𝐥𝐚,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
-- 🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨
-- 👨🏻‍💻𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼
-- 📂.
+ ## Ola,𝐄𝐮 𝐬𝐨𝐮 𝐨 𝐏𝐞𝐝𝐫𝐨 𝐇𝐞𝐧𝐫𝐢𝐪𝐮𝐞.👋
+
+
+```🌱 𝐞𝐬𝐭𝐮𝐝𝐚𝐧𝐝𝐨 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐚𝐜̧𝐚̃𝐨-```
+```👨🏻‍💻 𝗮𝗽𝗮𝗶𝘅𝗼𝗻𝗮𝗱𝗼 𝗽𝗼𝗿 𝗰𝗶𝗲̂𝗻𝗰𝗶𝗮𝘀 𝗱𝗮 𝗰𝗼𝗺𝗽𝘂𝘁𝗮𝗰̧𝗮̃𝗼-```
+```📂.```
 
 
 <div style="position: fixed; top: 0; left: 0;"><img align="left" alt="Python" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 ‎ 
   
-  𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚜
+  𝚁𝚎𝚍𝚎𝚜 𝚜𝚘𝚌𝚒𝚊𝚜 ↓
   
 </div>
 
@@ -27,7 +28,6 @@
   
   𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
   
-
 
   
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #FF5733; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
