@@ -30,13 +30,10 @@
   
 
   
-<div style="display: flex; justify-content: space-around;">
+<div>
   <a href="https://github.com/viniciusjunio05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> 
-  </a>
-  <a href="https://github.com/viniciusjunio05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
