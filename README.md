@@ -31,19 +31,14 @@
 
   
 <div>
-  <a href="https://github.com/viniciusjunio05">
+    <a href="https://github.com/PedroHenriquefavaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
  
-  </a>
-  <a href="https://github.com/PedroHenriquefavaro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=8&locale=pt-br&theme=dracula&hide_border=true&bg_color=ffffff00&title_color=FF5733&text_color=666666&exclude_repo=github-readme-stats&hide=TeX,Lua,Vim%20script"/>
-  </a>
-</div>
-
+ 
 
 
 
