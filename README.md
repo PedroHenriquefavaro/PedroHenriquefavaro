@@ -29,12 +29,13 @@
   𝙼𝚎𝚞 𝚙𝚛𝚘𝚐𝚛𝚎𝚜𝚜𝚘.
   
 
-  
-<div>
+<div style="background-color: black;">
   <a href="https://github.com/PedroHenriquefavaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&title_color=00FFFF&text_color=00FFFF"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=radical&locale=pt-br&title_color=00FFFF&text_color=00FFFF"/>
 </div>
+
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroHenriquefavaro&bg_color=000000&color=ffffff&line=003311&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
