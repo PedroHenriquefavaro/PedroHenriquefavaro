@@ -32,8 +32,8 @@
   
 <div>
   <a href="https://github.com/viniciusjunio05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusjunio05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjunio05&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
