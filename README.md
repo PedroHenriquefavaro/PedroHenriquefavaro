@@ -30,16 +30,15 @@
   
 
   
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; background-color: #FF5733; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-  <div>
-    <a href="https://github.com/PedroHenriquefavaro">   
-      <img align="right" alt="Python" height="250" width="260" src="https://images-ext-1.discordapp.net/external/s9-vebI3uZ8YXVeuUAOeed0E2zyqCrlRhYvGHtRSMuI/https/user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif?width=671&height=671">
-    </a>
-  </div>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff00&title_color=FF5733&icon_color=FF5733&text_color=666666"/> 
-  </div>
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/viniciusjunio05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHenriquefavaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> 
+  </a>
+  <a href="https://github.com/viniciusjunio05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriquefavaro&layout=compact&langs_count=8&theme=dark" alt="Top Languages"/>
+  </a>
 </div>
+
 
  
   </a>
